@@ -1,0 +1,4 @@
+To be productive:
+./be_productive.sh
+To be entertaining:
+./be_entertaining.sh
