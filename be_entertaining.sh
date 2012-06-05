@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo `which giasu_puppet` apply entertaining.pp --modulepath modules
+sudo puppet apply entertaining.pp --modulepath modules

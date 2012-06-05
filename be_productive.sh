@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo `which giasu_puppet` apply productive.pp --modulepath modules
+sudo puppet apply productive.pp --modulepath modules
